@@ -1,0 +1,4 @@
+# f1tenth_gym v1.0 (Gymnasium API):
+#   git clone -b v1.0.0 https://github.com/f1tenth/f1tenth_gym.git && pip install -e f1tenth_gym
+numpy
+torch
